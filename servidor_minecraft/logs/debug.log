@@ -12636,3 +12636,47 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Jun2025 19:59:27.729] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/14541, l='ServerLevel[world]', x=933.37, y=78.46, z=-39.38] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1a84]
 [01Jun2025 19:59:28.230] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/14541, l='ServerLevel[world]', x=932.48, y=78.22, z=-39.32, removed=DISCARDED]
 [01Jun2025 20:00:12.224] [Worker-Main-2/DEBUG] [ModernFix/]: Structure etched:village/taiga/houses/taiga_bard_house_1 is being run through DFU (hash 6d4829c731189f8c62c34ceb28b7d45f827b72d736be898af6070ca0991ab04a), this will cause launch time delays
+[01Jun2025 20:01:39.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 20:01:39.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 20:04:24.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Sweet Dreams]
+[01Jun2025 20:04:37.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Ashes 'n Bones]
+[01Jun2025 20:04:49.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Knowledge raises the soul]
+[01Jun2025 20:05:36.501] [Worker-Main-3/DEBUG] [ModernFix/]: Structure valhelsia_structures:furnished/witch_hut/witch_hut_1 is being run through DFU (hash b91be0fa4c6ee850dc54afeaee0f2871f74fd1680c6cc604aef2038fe9b06a21), this will cause launch time delays
+[01Jun2025 20:06:39.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 20:06:39.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 20:09:40.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ese jorge es pingostiny
+[01Jun2025 20:09:50.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> callate
+[01Jun2025 20:09:55.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> dame un momenot
+[01Jun2025 20:10:05.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> osker
+[01Jun2025 20:11:39.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 20:11:39.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 20:15:01.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ya
+[01Jun2025 20:15:13.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> oe
+[01Jun2025 20:15:18.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Crawling in my Bark]
+[01Jun2025 20:15:21.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> q
+[01Jun2025 20:15:27.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> si consigues zing y cobre te lo agradecería
+[01Jun2025 20:15:31.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> y tmb andesita
+[01Jun2025 20:15:49.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> minerales te consigo
+[01Jun2025 20:15:52.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> pero espera
+[01Jun2025 20:15:58.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> okok grax
+[01Jun2025 20:15:58.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> hago la mochila
+[01Jun2025 20:16:39.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 20:16:39.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 20:18:12.540] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jorgepwe'/6788, l='ServerLevel[world]', x=1506.86, y=128.00, z=41.33]
+[01Jun2025 20:18:14.606] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Jorgepwe: {disabled=false, disconnected=true, uuid=d5cb90a3-5321-3e9b-8658-6318f3bddd1a, name=Jorgepwe, group=null}
+[01Jun2025 20:19:55.887] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jorgepwe'/6788, l='ServerLevel[world]', x=1437.71, y=113.00, z=84.90], dimensionLocationPath overworld
+[01Jun2025 20:19:55.887] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jorgepwe'/6788, l='ServerLevel[world]', x=1437.71, y=113.00, z=84.90] in list []
+[01Jun2025 20:21:16.029] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/24565, l='ServerLevel[world]', x=1524.51, y=108.53, z=47.71], dimensionLocationPath overworld
+[01Jun2025 20:21:16.030] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/24565, l='ServerLevel[world]', x=1524.51, y=108.53, z=47.71] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1a84]
+[01Jun2025 20:21:24.030] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/24565, l='ServerLevel[world]', x=1524.88, y=107.00, z=48.56, removed=DISCARDED]
+[01Jun2025 20:21:39.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 20:21:39.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 20:22:53.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Isn't It Iron Pick]
+[01Jun2025 20:23:40.138] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21500, l='ServerLevel[world]', x=1512.30, y=127.00, z=37.70] died, message: 'Unemployed was slain by Zombie'
+[01Jun2025 20:23:46.338] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21501, l='ServerLevel[world]', x=1512.30, y=127.00, z=37.70] died, message: 'Unemployed was slain by Zombie'
+[01Jun2025 20:26:39.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 20:26:39.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 20:27:08.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[01Jun2025 20:27:08.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[01Jun2025 20:27:08.795] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of ChupetinXD
+[01Jun2025 20:27:08.795] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ChupetinXD
