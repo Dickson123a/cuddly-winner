@@ -2832,3 +2832,8 @@
 [01Jun2025 18:33:59.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
 [01Jun2025 18:34:00.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
 [01Jun2025 18:34:14.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[01Jun2025 18:49:54.586] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgepwe[/127.192.51.244:45351] logged in with entity id 2607 at (85.5, 73.0, -120.5)
+[01Jun2025 18:49:54.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe joined the game
+[01Jun2025 18:49:54.664] [Server thread/INFO] [Jade/]: Syncing config to Jorgepwe (d5cb90a3-5321-3e9b-8658-6318f3bddd1a)
+[01Jun2025 18:49:56.162] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jorgepwe (18)
+[01Jun2025 18:49:56.163] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jorgepwe
