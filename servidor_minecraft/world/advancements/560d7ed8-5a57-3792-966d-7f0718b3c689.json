@@ -1,26 +1,19 @@
 {
-  "decoration_delight:the_search_begins_advancement": {
+  "create:root": {
     "criteria": {
-      "the_search_begins_advancement": "2025-06-01 05:42:29 +0000"
+      "0": "2025-06-01 18:33:47 +0000"
     },
     "done": true
-  },
-  "decoration_delight:decoration_101_advancement": {
-    "criteria": {
-      "decoration_101_advancement": "2025-06-01 05:42:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:beach": "2025-06-01 05:42:50 +0000",
-      "minecraft:plains": "2025-06-01 05:42:30 +0000"
-    },
-    "done": false
   },
   "tombstone:adventure/root": {
     "criteria": {
-      "auto": "2025-06-01 05:42:30 +0000"
+      "auto": "2025-06-01 18:32:52 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-06-01 18:32:51 +0000"
     },
     "done": true
   },
