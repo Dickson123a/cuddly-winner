@@ -1,0 +1,21 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2025-06-01 18:50:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-06-01 18:49:55 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-06-01 18:49:54 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
