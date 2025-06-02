@@ -89,7 +89,10 @@
     "criteria": {
       "minecraft:pillager": "2025-06-02 01:18:32 +0000",
       "minecraft:skeleton": "2025-06-02 01:24:56 +0000",
+      "minecraft:vindicator": "2025-06-02 04:34:50 +0000",
       "minecraft:creeper": "2025-06-02 02:41:23 +0000",
+      "minecraft:evoker": "2025-06-02 04:35:38 +0000",
+      "minecraft:witch": "2025-06-02 04:35:23 +0000",
       "minecraft:zombie": "2025-06-02 01:30:12 +0000"
     },
     "done": false
@@ -138,14 +141,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-06-02 04:30:35 +0000",
       "minecraft:eroded_badlands": "2025-06-02 01:26:09 +0000",
+      "minecraft:frozen_river": "2025-06-02 04:30:22 +0000",
+      "minecraft:cherry_grove": "2025-06-02 04:25:18 +0000",
       "minecraft:windswept_hills": "2025-06-02 01:34:39 +0000",
       "minecraft:wooded_badlands": "2025-06-02 01:28:47 +0000",
       "minecraft:badlands": "2025-06-02 01:26:31 +0000",
       "minecraft:river": "2025-06-02 01:25:36 +0000",
+      "minecraft:snowy_plains": "2025-06-02 04:26:28 +0000",
+      "minecraft:snowy_taiga": "2025-06-02 04:26:06 +0000",
+      "minecraft:forest": "2025-06-02 04:33:14 +0000",
+      "minecraft:frozen_ocean": "2025-06-02 04:26:48 +0000",
       "minecraft:desert": "2025-06-02 01:26:10 +0000",
       "minecraft:windswept_forest": "2025-06-02 01:35:04 +0000",
       "minecraft:jungle": "2025-06-02 01:19:41 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-02 04:30:40 +0000",
+      "minecraft:snowy_beach": "2025-06-02 04:26:43 +0000",
       "minecraft:warm_ocean": "2025-06-02 01:29:10 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-02 02:43:18 +0000",
       "minecraft:savanna": "2025-06-02 01:24:00 +0000"
@@ -169,6 +181,12 @@
       "cooked_beef": "2025-06-02 02:12:48 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-06-02 04:34:50 +0000"
+    },
+    "done": true
   },
   "create_connected:root": {
     "criteria": {

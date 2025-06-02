@@ -2057,3 +2057,27 @@
 [02Jun2025 04:15:09.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> y como no había gampiton
 [02Jun2025 04:15:11.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> si esta de aca sigue aqui
 [02Jun2025 04:15:21.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> tienes razón.
+[02Jun2025 04:19:19.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 04:19:29.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> oe duerme
+[02Jun2025 04:19:37.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 04:19:40.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 04:20:41.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 04:22:08.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22109ms or 442 ticks behind
+[02Jun2025 04:22:08.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgepwe lost connection: Disconnected
+[02Jun2025 04:22:08.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe left the game
+[02Jun2025 04:22:08.741] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jorgepwe
+[02Jun2025 04:22:08.765] [Server thread/ERROR] [mezz.jei.common.transfer.BasicRecipeTransferHandlerServer/]: Tried to transfer recipe but was given an empty inventory slot as an ingredient source: 2
+[02Jun2025 04:22:10.580] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgepwe[/127.192.51.244:47923] logged in with entity id 62144 at (-5962.600757558261, 81.0, -5549.680078292326)
+[02Jun2025 04:22:10.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe joined the game
+[02Jun2025 04:22:10.590] [Server thread/INFO] [Jade/]: Syncing config to Jorgepwe (d5cb90a3-5321-3e9b-8658-6318f3bddd1a)
+[02Jun2025 04:22:10.781] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jorgepwe (18)
+[02Jun2025 04:22:10.782] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jorgepwe
+[02Jun2025 04:24:12.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! 3.467276878915982,0.0,9.97182791272644
+[02Jun2025 04:31:36.787] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element terralith:alpine_highlands took 57 ms
+[02Jun2025 04:31:43.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported ChupetinXD to -5904.500000, 90.000000, -3121.500000]
+[02Jun2025 04:31:43.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2861ms or 57 ticks behind
+[02Jun2025 04:34:50.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has reached the goal [Fortuitous Militia]
+[02Jun2025 04:36:06.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> si duermieras ps
+[02Jun2025 04:36:10.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> durmieras
+[02Jun2025 04:36:13.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> XD
+[02Jun2025 04:37:06.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Close Quarters]
