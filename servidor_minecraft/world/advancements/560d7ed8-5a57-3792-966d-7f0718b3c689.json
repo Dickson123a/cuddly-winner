@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-06-02 02:12:48 +0000"
+    },
+    "done": false
+  },
   "create_connected:root": {
     "criteria": {
       "0": "2025-06-02 01:16:26 +0000"
