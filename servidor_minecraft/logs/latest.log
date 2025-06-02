@@ -2081,3 +2081,13 @@
 [02Jun2025 04:36:10.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> durmieras
 [02Jun2025 04:36:13.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> XD
 [02Jun2025 04:37:06.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Close Quarters]
+[02Jun2025 04:47:02.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5946, y=80, z=-5491} BlockPos{x=-5946, y=78, z=-5492}
+[02Jun2025 04:48:44.547] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element terralith:alpine_grove took 4 ms
+[02Jun2025 04:48:48.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported ChupetinXD to -6100.500000, 207.000000, -3793.500000]
+[02Jun2025 04:51:01.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgepwe lost connection: Disconnected
+[02Jun2025 04:51:01.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe left the game
+[02Jun2025 04:51:01.237] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jorgepwe
+[02Jun2025 04:51:53.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Diamonds!]
+[02Jun2025 04:52:03.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Cover Me with Diamonds]
+[02Jun2025 04:52:16.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Spectator Mode]
+[02Jun2025 04:52:21.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
