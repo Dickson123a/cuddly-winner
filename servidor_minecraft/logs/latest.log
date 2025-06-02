@@ -1890,3 +1890,17 @@
 [02Jun2025 01:34:23.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported ChupetinXD to -2161.500000, 129.000000, -1322.500000]
 [02Jun2025 01:34:57.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -7.664176697227958,0.0,6.914645274006489
 [02Jun2025 01:35:01.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -7.0825113504893125,0.0,7.151162344195654
+[02Jun2025 01:35:39.278] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element terralith:yosemite_lowlands took 10118 ms
+[02Jun2025 01:35:39.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10116ms or 202 ticks behind
+[02Jun2025 01:35:39.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! 0.0,-10.312500617038765,0.0
+[02Jun2025 01:35:55.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported ChupetinXD to -5321.500000, 118.000000, -5301.500000]
+[02Jun2025 01:45:18.044] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:cannonball removed now.
+[02Jun2025 01:45:18.048] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:cannonball removed now.
+[02Jun2025 01:45:18.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgepwe[/127.192.51.244:60681] logged in with entity id 14272 at (1719.8497537981282, -16.0, 151.108451769617)
+[02Jun2025 01:45:18.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe joined the game
+[02Jun2025 01:45:18.087] [Server thread/INFO] [Jade/]: Syncing config to Jorgepwe (d5cb90a3-5321-3e9b-8658-6318f3bddd1a)
+[02Jun2025 01:45:19.524] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jorgepwe (18)
+[02Jun2025 01:45:19.525] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jorgepwe
+[02Jun2025 01:45:33.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgepwe lost connection: Disconnected
+[02Jun2025 01:45:33.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe left the game
+[02Jun2025 01:45:33.727] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jorgepwe
