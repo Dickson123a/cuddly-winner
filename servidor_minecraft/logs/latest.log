@@ -568,3 +568,12 @@
 [02Jun2025 19:27:56.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! 9.046857064420692,0.0,4.424691356793119
 [02Jun2025 19:43:28.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! 8.407037427403338,4.379788597512771,-3.5565975704794255
 [02Jun2025 19:53:55.649] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/345, l='ServerLevel[world]', x=-5744.52, y=82.17, z=-2062.30] died, message: 'Farmer was shot by Pillager'
+[02Jun2025 19:55:07.849] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/284, l='ServerLevel[world]', x=-5766.96, y=82.00, z=-2084.96] died, message: 'Armorer was shot by Pillager'
+[02Jun2025 19:55:59.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 19:56:06.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 19:56:23.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 19:56:29.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 20:00:34.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 20:00:57.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 20:01:22.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 20:01:48.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
