@@ -604,3 +604,7 @@
 [02Jun2025 17:33:09.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -5.469857379170207,0.0,-8.573189193517464
 [02Jun2025 17:33:17.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -8.671974431367744,3.368765048835627,-4.555391289778527
 [02Jun2025 17:51:58.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -3.781004556492917,-7.497225001908518,6.023959291212577
+[02Jun2025 17:54:30.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -6.017127897514911,-6.721982858457238,-5.532957840412109
+[02Jun2025 18:02:18.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[02Jun2025 18:02:18.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[02Jun2025 18:02:18.256] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ChupetinXD
