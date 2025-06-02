@@ -13588,3 +13588,146 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jun2025 02:25:10.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> no sale tmr
 [02Jun2025 02:25:37.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> aver manda cap
 [02Jun2025 02:25:40.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> de tu menú
+[02Jun2025 02:26:22.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 02:26:22.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 02:27:19.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 02:27:34.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 02:28:04.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> mira tu wsp
+[02Jun2025 02:28:48.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> nidea on, yo si veo la mía
+[02Jun2025 02:29:01.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ya mejoraste tu mochila o no
+[02Jun2025 02:29:06.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> si
+[02Jun2025 02:29:09.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> hmm
+[02Jun2025 02:29:26.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> nidea on, yo si veo mi mochila pero la tuya no
+[02Jun2025 02:29:36.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> tmb veo la tuya
+[02Jun2025 02:29:38.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> la mia nad
+[02Jun2025 02:31:06.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 02:31:22.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 02:31:22.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 02:32:11.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ya salio
+[02Jun2025 02:32:30.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> resulta q puse la mochila pa q no se vea
+[02Jun2025 02:32:31.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> XDXD
+[02Jun2025 02:32:35.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> XD
+[02Jun2025 02:32:43.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 02:32:47.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 02:32:56.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 02:33:29.752] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:furnished/castle
+[02Jun2025 02:33:59.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement ['X' Marks the Spot]
+[02Jun2025 02:34:16.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 02:36:02.584] [Worker-Main-3/DEBUG] [mixin/]: Mixing sequencedgearshift.SequencerInstructionsMixin from create_connected.mixins.json into com.simibubi.create.content.kinetics.transmission.sequencer.SequencerInstructions
+[02Jun2025 02:36:02.584] [Worker-Main-3/DEBUG] [mixin/]: create_connected.mixins.json:sequencedgearshift.SequencerInstructionsMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[02Jun2025 02:36:02.585] [Worker-Main-3/DEBUG] [mixin/]: Renaming @Invoker method create_connected$invokeInit(Ljava/lang/String;ILjava/lang/String;Lcom/simibubi/create/foundation/gui/AllGuiTextures;)Lcom/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions; to create_connected$invokeInit_$md$01f498$0 in create_connected.mixins.json:sequencedgearshift.SequencerInstructionsMixin
+[02Jun2025 02:36:02.585] [Worker-Main-3/DEBUG] [mixin/]: Renaming @Invoker method create_connected$invokeInit(Ljava/lang/String;ILjava/lang/String;Lcom/simibubi/create/foundation/gui/AllGuiTextures;ZZIII)Lcom/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions; to create_connected$invokeInit_$md$01f498$1 in create_connected.mixins.json:sequencedgearshift.SequencerInstructionsMixin
+[02Jun2025 02:36:22.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 02:36:23.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 02:36:42.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 02:37:45.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 02:38:33.075] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/29405, l='ServerLevel[world]', x=-5474.61, y=21.64, z=-5573.41], dimensionLocationPath overworld
+[02Jun2025 02:38:33.076] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/29405, l='ServerLevel[world]', x=-5474.61, y=21.64, z=-5573.41] in list []
+[02Jun2025 02:38:33.834] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/29405, l='ServerLevel[world]', x=-5474.26, y=19.00, z=-5573.32, removed=DISCARDED]
+[02Jun2025 02:38:45.593] [Server thread/DEBUG] [mixin/]: Mixing RotationPropagatorAccessor from create_connected.mixins.json into com.simibubi.create.content.kinetics.RotationPropagator
+[02Jun2025 02:38:45.593] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:RotationPropagatorAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[02Jun2025 02:38:45.594] [Server thread/DEBUG] [mixin/]: Renaming @Invoker method callFindConnectedNeighbour(Lcom/simibubi/create/content/kinetics/base/KineticBlockEntity;Lnet/minecraft/core/BlockPos;)Lcom/simibubi/create/content/kinetics/base/KineticBlockEntity; to callFindConnectedNeighbour_$md$01f498$0 in create_connected.mixins.json:RotationPropagatorAccessor
+[02Jun2025 02:38:45.594] [Server thread/DEBUG] [mixin/]: Mixing RotationPropagatorMixin from create_connected.mixins.json into com.simibubi.create.content.kinetics.RotationPropagator
+[02Jun2025 02:38:45.594] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:RotationPropagatorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[02Jun2025 02:38:45.595] [Server thread/DEBUG] [mixin/]: Mixing chaincogwheel.RotationPropagatorMixin from create_connected.mixins.json into com.simibubi.create.content.kinetics.RotationPropagator
+[02Jun2025 02:38:45.595] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:chaincogwheel.RotationPropagatorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[02Jun2025 02:38:47.128] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of etched:village/taiga/houses/taiga_bard_house_1
+[02Jun2025 02:39:02.597] [Worker-Main-2/DEBUG] [ModernFix/]: Structure valhelsia_structures:vegetations/big_tree_underside is being run through DFU (hash 454c8b3cf69bdb9494b145d033bd5d8367de53c56764da3f9e8bb50738284410), this will cause launch time delays
+[02Jun2025 02:41:13.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> oe
+[02Jun2025 02:41:16.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> q
+[02Jun2025 02:41:19.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> encontre una casa con
+[02Jun2025 02:41:22.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 02:41:23.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 02:41:27.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> varias cosas del create
+[02Jun2025 02:41:31.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> traete todo
+[02Jun2025 02:41:59.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ven oe
+[02Jun2025 02:42:26.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> pera
+[02Jun2025 02:43:00.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> tiene taladro y todo
+[02Jun2025 02:43:05.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> okok
+[02Jun2025 02:43:14.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 02:43:17.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported ChupetinXD to Jorgepwe]
+[02Jun2025 02:46:22.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 02:46:23.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 02:46:56.278] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:ruins/tower_ruin_1
+[02Jun2025 02:47:42.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Disme A Dozen]
+[02Jun2025 02:48:18.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 02:48:52.447] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Jorgepwe: {disabled=false, disconnected=true, uuid=d5cb90a3-5321-3e9b-8658-6318f3bddd1a, name=Jorgepwe, group=null}
+[02Jun2025 02:50:42.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 02:50:44.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 02:50:47.329] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5949.47, y=80.00, z=-5567.72], dimensionLocationPath overworld
+[02Jun2025 02:50:47.329] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5949.47, y=80.00, z=-5567.72] in list []
+[02Jun2025 02:50:52.578] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5954.20, y=82.00, z=-5559.49]
+[02Jun2025 02:51:22.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 02:51:23.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 02:52:15.829] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[02Jun2025 02:52:32.463] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/37046, l='ServerLevel[world]', x=-5953.59, y=81.23, z=-5555.41], dimensionLocationPath overworld
+[02Jun2025 02:52:32.463] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/37046, l='ServerLevel[world]', x=-5953.59, y=81.23, z=-5555.41] in list []
+[02Jun2025 02:52:34.578] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5953.34, y=80.57, z=-5556.40], dimensionLocationPath overworld
+[02Jun2025 02:52:34.578] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5953.34, y=80.57, z=-5556.40] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@90b6]
+[02Jun2025 02:52:34.613] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/37046, l='ServerLevel[world]', x=-5953.88, y=80.00, z=-5557.12, removed=DISCARDED]
+[02Jun2025 02:52:36.778] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5949.41, y=80.00, z=-5558.39]
+[02Jun2025 02:54:57.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 02:55:13.728] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5931.79, y=80.00, z=-5561.76], dimensionLocationPath overworld
+[02Jun2025 02:55:13.728] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5931.79, y=80.00, z=-5561.76] in list []
+[02Jun2025 02:55:15.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 02:56:22.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 02:56:23.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 02:57:13.332] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5910.73, y=78.00, z=-5565.70]
+[02Jun2025 02:57:14.164] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/38873, l='ServerLevel[world]', x=-5910.62, y=77.15, z=-5565.54], dimensionLocationPath overworld
+[02Jun2025 02:57:14.164] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/38873, l='ServerLevel[world]', x=-5910.62, y=77.15, z=-5565.54] in list []
+[02Jun2025 02:57:19.064] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/38873, l='ServerLevel[world]', x=-5910.13, y=73.00, z=-5565.88, removed=DISCARDED]
+[02Jun2025 02:57:21.178] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5910.44, y=73.00, z=-5565.70], dimensionLocationPath overworld
+[02Jun2025 02:57:21.178] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5910.44, y=73.00, z=-5565.70] in list []
+[02Jun2025 02:58:50.279] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5963.73, y=80.00, z=-5576.30]
+[02Jun2025 02:58:50.329] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/39523, l='ServerLevel[world]', x=-5965.55, y=80.48, z=-5578.07], dimensionLocationPath overworld
+[02Jun2025 02:58:50.329] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/39523, l='ServerLevel[world]', x=-5965.55, y=80.48, z=-5578.07] in list []
+[02Jun2025 02:58:50.379] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/39525, l='ServerLevel[world]', x=-5964.11, y=81.32, z=-5576.43], dimensionLocationPath overworld
+[02Jun2025 02:58:50.379] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/39525, l='ServerLevel[world]', x=-5964.11, y=81.32, z=-5576.43] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@9a63]
+[02Jun2025 02:58:50.379] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/39523, l='ServerLevel[world]', x=-5965.55, y=80.48, z=-5578.07, removed=DISCARDED]
+[02Jun2025 02:58:50.880] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/39530, l='ServerLevel[world]', x=-5964.87, y=81.32, z=-5576.78], dimensionLocationPath overworld
+[02Jun2025 02:58:50.880] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/39530, l='ServerLevel[world]', x=-5964.87, y=81.32, z=-5576.78] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@9a65]
+[02Jun2025 02:58:50.880] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/39525, l='ServerLevel[world]', x=-5965.60, y=80.00, z=-5577.88, removed=DISCARDED]
+[02Jun2025 02:58:51.581] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/39535, l='ServerLevel[world]', x=-5965.20, y=81.32, z=-5577.79], dimensionLocationPath overworld
+[02Jun2025 02:58:51.582] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/39535, l='ServerLevel[world]', x=-5965.20, y=81.32, z=-5577.79] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@9a6a]
+[02Jun2025 02:58:51.582] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/39530, l='ServerLevel[world]', x=-5965.76, y=80.46, z=-5579.57, removed=DISCARDED]
+[02Jun2025 02:58:53.184] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/39541, l='ServerLevel[world]', x=-5965.70, y=81.32, z=-5578.98], dimensionLocationPath overworld
+[02Jun2025 02:58:53.184] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/39541, l='ServerLevel[world]', x=-5965.70, y=81.32, z=-5578.98] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@9a6f]
+[02Jun2025 02:58:53.184] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/39535, l='ServerLevel[world]', x=-5965.88, y=80.00, z=-5579.88, removed=DISCARDED]
+[02Jun2025 02:58:53.929] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/39544, l='ServerLevel[world]', x=-5965.70, y=81.32, z=-5578.98], dimensionLocationPath overworld
+[02Jun2025 02:58:53.930] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/39544, l='ServerLevel[world]', x=-5965.70, y=81.32, z=-5578.98] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@9a75]
+[02Jun2025 02:58:53.930] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/39541, l='ServerLevel[world]', x=-5967.39, y=80.17, z=-5579.57, removed=DISCARDED]
+[02Jun2025 02:58:54.937] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/39551, l='ServerLevel[world]', x=-5968.25, y=81.32, z=-5578.39], dimensionLocationPath overworld
+[02Jun2025 02:58:54.937] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/39551, l='ServerLevel[world]', x=-5968.25, y=81.32, z=-5578.39] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@9a78]
+[02Jun2025 02:58:54.938] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/39544, l='ServerLevel[world]', x=-5967.89, y=80.25, z=-5580.21, removed=DISCARDED]
+[02Jun2025 02:58:55.532] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/39560, l='ServerLevel[world]', x=-5967.88, y=81.32, z=-5579.81], dimensionLocationPath overworld
+[02Jun2025 02:58:55.532] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/39560, l='ServerLevel[world]', x=-5967.88, y=81.32, z=-5579.81] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@9a7f]
+[02Jun2025 02:58:55.532] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/39551, l='ServerLevel[world]', x=-5967.66, y=80.00, z=-5580.30, removed=DISCARDED]
+[02Jun2025 02:58:57.562] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/39560, l='ServerLevel[world]', x=-5967.32, y=80.00, z=-5581.81, removed=DISCARDED]
+[02Jun2025 02:58:58.576] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5968.06, y=80.00, z=-5581.53], dimensionLocationPath overworld
+[02Jun2025 02:58:58.576] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5968.06, y=80.00, z=-5581.53] in list []
+[02Jun2025 02:59:10.829] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5967.75, y=80.00, z=-5590.15]
+[02Jun2025 02:59:16.263] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/39661, l='ServerLevel[world]', x=-5967.33, y=80.43, z=-5590.28], dimensionLocationPath overworld
+[02Jun2025 02:59:16.263] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/39661, l='ServerLevel[world]', x=-5967.33, y=80.43, z=-5590.28] in list []
+[02Jun2025 02:59:18.464] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/39661, l='ServerLevel[world]', x=-5966.61, y=80.00, z=-5590.07, removed=DISCARDED]
+[02Jun2025 02:59:21.429] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5967.66, y=80.00, z=-5590.53], dimensionLocationPath overworld
+[02Jun2025 02:59:21.429] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5967.66, y=80.00, z=-5590.53] in list []
+[02Jun2025 03:01:22.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 03:01:23.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 03:02:47.977] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5917.35, y=78.00, z=-5563.77]
+[02Jun2025 03:03:33.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> oe tienes lava?
+[02Jun2025 03:03:42.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> 1
+[02Jun2025 03:03:44.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> pasa
+[02Jun2025 03:03:51.412] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/41046, l='ServerLevel[world]', x=-5919.72, y=78.31, z=-5563.40], dimensionLocationPath overworld
+[02Jun2025 03:03:51.413] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/41046, l='ServerLevel[world]', x=-5919.72, y=78.31, z=-5563.40] in list []
+[02Jun2025 03:03:51.913] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/41046, l='ServerLevel[world]', x=-5919.75, y=78.07, z=-5563.92, removed=DISCARDED]
+[02Jun2025 03:03:59.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ven
+[02Jun2025 03:04:23.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 03:04:26.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported ChupetinXD to Jorgepwe]
+[02Jun2025 03:04:40.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Hot Stuff]
+[02Jun2025 03:04:46.122] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5921.49, y=80.00, z=-5566.18], dimensionLocationPath overworld
+[02Jun2025 03:04:46.122] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5921.49, y=80.00, z=-5566.18] in list []
+[02Jun2025 03:05:10.421] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jorgepwe'/25856, l='ServerLevel[world]', x=-5946.70, y=82.00, z=-5563.06]
+[02Jun2025 03:05:12.113] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/41426, l='ServerLevel[world]', x=-5946.39, y=82.40, z=-5561.67], dimensionLocationPath overworld
+[02Jun2025 03:05:12.113] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/41426, l='ServerLevel[world]', x=-5946.39, y=82.40, z=-5561.67] in list []
+[02Jun2025 03:05:12.614] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/41426, l='ServerLevel[world]', x=-5946.14, y=82.16, z=-5562.53, removed=DISCARDED]
+[02Jun2025 03:05:21.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
