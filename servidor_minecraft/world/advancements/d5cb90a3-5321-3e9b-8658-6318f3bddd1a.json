@@ -17,6 +17,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-01 20:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-01 20:42:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-01 20:04:24 +0000"
@@ -38,6 +50,12 @@
       "minecraft:zombie": "2025-06-01 19:50:16 +0000"
     },
     "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-01 20:49:15 +0000"
+    },
+    "done": true
   },
   "minecraft:story/iron_tools": {
     "criteria": {
@@ -64,10 +82,12 @@
       "minecraft:beach": "2025-06-01 19:38:09 +0000",
       "minecraft:river": "2025-06-01 19:49:48 +0000",
       "minecraft:swamp": "2025-06-01 19:36:22 +0000",
+      "minecraft:cold_ocean": "2025-06-01 20:45:54 +0000",
       "minecraft:forest": "2025-06-01 19:59:18 +0000",
       "minecraft:lush_caves": "2025-06-01 20:23:53 +0000",
       "minecraft:windswept_savanna": "2025-06-01 19:56:22 +0000",
-      "minecraft:old_growth_birch_forest": "2025-06-01 20:05:56 +0000"
+      "minecraft:old_growth_birch_forest": "2025-06-01 20:05:56 +0000",
+      "minecraft:deep_dark": "2025-06-01 20:36:55 +0000"
     },
     "done": false
   },
@@ -86,7 +106,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-01 20:21:13 +0000",
-      "cooked_mutton": "2025-06-01 19:37:05 +0000"
+      "cooked_mutton": "2025-06-01 19:37:05 +0000",
+      "glow_berries": "2025-06-01 20:36:41 +0000"
     },
     "done": false
   },
@@ -105,6 +126,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-01 19:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-01 20:39:11 +0000"
     },
     "done": true
   },

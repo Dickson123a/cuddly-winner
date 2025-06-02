@@ -1,7 +1,7 @@
 {
-  "create:root": {
+  "repurposed_structures:root": {
     "criteria": {
-      "0": "2025-06-01 18:33:47 +0000"
+      "always": "2025-06-01 18:32:51 +0000"
     },
     "done": true
   },
@@ -11,9 +11,27 @@
     },
     "done": true
   },
-  "repurposed_structures:root": {
+  "create:root": {
     "criteria": {
-      "always": "2025-06-01 18:32:51 +0000"
+      "0": "2025-06-01 18:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-06-02 00:25:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-02 00:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-02 00:25:23 +0000"
     },
     "done": true
   },
