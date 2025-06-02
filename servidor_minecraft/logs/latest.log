@@ -2028,3 +2028,7 @@
 [02Jun2025 03:04:26.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported ChupetinXD to Jorgepwe]
 [02Jun2025 03:04:40.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Hot Stuff]
 [02Jun2025 03:05:21.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 03:14:11.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5910, y=82, z=-5557} BlockPos{x=-5910, y=80, z=-5557}
+[02Jun2025 03:22:11.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgepwe lost connection: Disconnected
+[02Jun2025 03:22:11.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe left the game
+[02Jun2025 03:22:11.232] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jorgepwe

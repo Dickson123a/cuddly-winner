@@ -37,9 +37,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
+      "0": "2025-06-02 03:02:10 +0000",
       "1": "2025-06-02 01:20:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "lootr:1chest": {
     "criteria": {
@@ -62,6 +63,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-02 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-02 03:04:40 +0000"
     },
     "done": true
   },
@@ -193,6 +200,12 @@
     },
     "done": true
   },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-06-02 03:12:23 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-02 01:18:32 +0000"
@@ -202,6 +215,12 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-06-02 01:28:30 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-06-02 03:14:26 +0000"
     },
     "done": true
   },
