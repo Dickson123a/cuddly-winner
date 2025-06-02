@@ -14025,3 +14025,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jun2025 03:41:23.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jun2025 03:46:22.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jun2025 03:46:23.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 03:51:22.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 03:51:23.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 03:51:56.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgepwe lost connection: Disconnected
+[02Jun2025 03:51:56.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe left the game
+[02Jun2025 03:51:56.178] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Jorgepwe
+[02Jun2025 03:51:56.179] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jorgepwe
+[02Jun2025 03:56:22.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 03:56:22.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
