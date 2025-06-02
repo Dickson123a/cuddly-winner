@@ -564,3 +564,42 @@
 [02Jun2025 16:50:05.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
 [02Jun2025 16:50:09.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
 [02Jun2025 16:52:42.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 16:53:59.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 16:55:19.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 16:57:06.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! 6.999593994778479,0.0,8.23633954635443
+[02Jun2025 16:59:19.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -1.4952211560566866,0.0,10.728516574085916
+[02Jun2025 17:00:43.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Spectator Mode]
+[02Jun2025 17:01:33.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 17:04:39.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Spectator Mode]
+[02Jun2025 17:04:48.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 17:05:24.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Spectator Mode]
+[02Jun2025 17:05:30.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 17:06:24.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Spectator Mode]
+[02Jun2025 17:06:49.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 17:10:55.411] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element terralith:highlands took 9 ms
+[02Jun2025 17:11:56.868] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element terralith:warm_river took 1292 ms
+[02Jun2025 17:12:04.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported ChupetinXD to -6083.500000, 85.000000, -405.500000]
+[02Jun2025 17:12:04.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
+[02Jun2025 17:15:32.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22183ms or 443 ticks behind
+[02Jun2025 17:22:00.387] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element terralith:cloud_forest took 8081 ms
+[02Jun2025 17:22:00.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8055ms or 161 ticks behind
+[02Jun2025 17:22:04.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported ChupetinXD to -2083.500000, 88.000000, -1205.500000]
+[02Jun2025 17:22:50.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported ChupetinXD to -6083.500000, 85.000000, -405.500000]
+[02Jun2025 17:23:05.588] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:river took 106 ms
+[02Jun2025 17:23:10.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported ChupetinXD to -5540.500000, 70.000000, -221.500000]
+[02Jun2025 17:23:37.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -0.39005542246650293,-6.7500002682209015,7.512096944560028
+[02Jun2025 17:24:15.620] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:vegetation_dense (terralith:tropical_jungle) took 818 ms
+[02Jun2025 17:24:21.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported ChupetinXD to -5282.500000, 73.000000, 1067.500000]
+[02Jun2025 17:24:21.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3374ms or 67 ticks behind
+[02Jun2025 17:26:03.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22070ms or 441 ticks behind
+[02Jun2025 17:29:23.045] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element terralith:steppe took 3043 ms
+[02Jun2025 17:29:23.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3014ms or 60 ticks behind
+[02Jun2025 17:29:34.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported ChupetinXD to -5762.500000, 116.000000, -1460.500000]
+[02Jun2025 17:30:09.941] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element terralith:yosemite_lowlands took 7570 ms
+[02Jun2025 17:30:09.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7560ms or 151 ticks behind
+[02Jun2025 17:30:09.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -7.194867724682808,0.0,7.088298653081665
+[02Jun2025 17:30:14.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported ChupetinXD to -5312.500000, 101.000000, -5303.500000]
+[02Jun2025 17:31:02.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -10.841791523386746,0.0,-0.18912348736921558
+[02Jun2025 17:32:05.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -10.34018030183779,0.0,-0.02659541777575214
+[02Jun2025 17:33:09.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -5.469857379170207,0.0,-8.573189193517464
+[02Jun2025 17:33:17.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -8.671974431367744,3.368765048835627,-4.555391289778527
