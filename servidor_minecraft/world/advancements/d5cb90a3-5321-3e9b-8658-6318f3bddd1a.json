@@ -77,7 +77,8 @@
       "minecraft:spider": "2025-06-01 20:05:44 +0000",
       "minecraft:creeper": "2025-06-01 19:50:53 +0000",
       "minecraft:witch": "2025-06-01 19:50:46 +0000",
-      "minecraft:zombie": "2025-06-01 19:50:16 +0000"
+      "minecraft:zombie": "2025-06-01 19:50:16 +0000",
+      "minecraft:zombie_villager": "2025-06-02 02:03:16 +0000"
     },
     "done": false
   },
@@ -180,6 +181,36 @@
   "create_connected:root": {
     "criteria": {
       "0": "2025-06-02 01:45:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-02 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "quark:throw_pickarang": {
+    "criteria": {
+      "throw_pickarang": "2025-06-02 02:04:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-06-02 01:55:35 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2025-06-02 02:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-02 01:55:30 +0000"
     },
     "done": true
   },

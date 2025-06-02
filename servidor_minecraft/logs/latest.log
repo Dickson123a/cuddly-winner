@@ -1904,3 +1904,49 @@
 [02Jun2025 01:45:33.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgepwe lost connection: Disconnected
 [02Jun2025 01:45:33.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe left the game
 [02Jun2025 01:45:33.727] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jorgepwe
+[02Jun2025 01:48:20.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgepwe[/127.192.51.244:33443] logged in with entity id 14983 at (1719.8497537981282, -16.0, 151.108451769617)
+[02Jun2025 01:48:20.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe joined the game
+[02Jun2025 01:48:20.403] [Server thread/INFO] [Jade/]: Syncing config to Jorgepwe (d5cb90a3-5321-3e9b-8658-6318f3bddd1a)
+[02Jun2025 01:48:20.692] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jorgepwe (18)
+[02Jun2025 01:48:20.692] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jorgepwe
+[02Jun2025 01:48:31.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> hola q tal
+[02Jun2025 01:49:08.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> q tal holaw
+[02Jun2025 01:49:17.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> XDXD
+[02Jun2025 01:51:35.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Hot Stuff]
+[02Jun2025 01:55:30.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Take Aim]
+[02Jun2025 01:55:35.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has reached the goal [Bone Crusher]
+[02Jun2025 02:03:42.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Shape of My Heart]
+[02Jun2025 02:04:59.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Somehow, Pickarang Returned]
+[02Jun2025 02:07:44.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [A Strange Grave Dust]
+[02Jun2025 02:11:36.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> oe
+[02Jun2025 02:11:38.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> q
+[02Jun2025 02:11:40.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> tpeame
+[02Jun2025 02:11:46.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> a donde
+[02Jun2025 02:11:50.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> a ti
+[02Jun2025 02:11:56.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> pera m pongo op
+[02Jun2025 02:12:09.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> rapido mano
+[02Jun2025 02:12:12.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> el warden
+[02Jun2025 02:12:39.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 02:12:42.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 02:12:45.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 02:12:51.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported Jorgepwe to ChupetinXD]
+[02Jun2025 02:13:01.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> buen creativo ps
+[02Jun2025 02:13:11.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> puro bloque fácil de conseguir oe
+[02Jun2025 02:13:19.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> oe
+[02Jun2025 02:13:24.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> como me pongo la mochila
+[02Jun2025 02:13:43.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> pontela como si fuera un accesorio
+[02Jun2025 02:14:00.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 02:14:00.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> no sale en mi espalda
+[02Jun2025 02:14:03.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 02:14:24.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> en el ícono sale una wbd como un puntito blanco
+[02Jun2025 02:14:33.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> si está en gris es q lo pusiste para q no se vea
+[02Jun2025 02:14:44.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> estas blanco
+[02Jun2025 02:14:48.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> esta
+[02Jun2025 02:15:01.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> q raro
+[02Jun2025 02:15:05.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> aver usa la B
+[02Jun2025 02:15:13.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> si funciona
+[02Jun2025 02:15:15.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> pero no se ve
+[02Jun2025 02:15:19.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ah tonses como la wba
+[02Jun2025 02:15:25.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> has de estar bugeado
+[02Jun2025 02:15:47.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 02:16:01.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
