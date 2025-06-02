@@ -13994,3 +13994,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jun2025 18:02:18.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
 [02Jun2025 18:02:18.250] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of ChupetinXD
 [02Jun2025 18:02:18.256] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ChupetinXD
+[02Jun2025 18:04:39.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 18:04:39.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 18:09:39.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 18:09:39.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
