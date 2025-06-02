@@ -2041,3 +2041,19 @@
 [02Jun2025 03:51:56.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgepwe lost connection: Disconnected
 [02Jun2025 03:51:56.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe left the game
 [02Jun2025 03:51:56.179] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jorgepwe
+[02Jun2025 04:02:08.281] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgepwe[/127.192.51.244:47247] logged in with entity id 54946 at (-5955.319485974051, 78.0, -5556.359428697931)
+[02Jun2025 04:02:08.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe joined the game
+[02Jun2025 04:02:08.291] [Server thread/INFO] [Jade/]: Syncing config to Jorgepwe (d5cb90a3-5321-3e9b-8658-6318f3bddd1a)
+[02Jun2025 04:02:08.558] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jorgepwe (18)
+[02Jun2025 04:02:08.558] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jorgepwe
+[02Jun2025 04:02:21.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> eb q andas
+[02Jun2025 04:10:25.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [What a Deal!]
+[02Jun2025 04:14:36.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> hola q tal
+[02Jun2025 04:14:38.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> andaba afk
+[02Jun2025 04:14:49.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> pura paja este pata
+[02Jun2025 04:14:56.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> fuí a comer oe XDXD
+[02Jun2025 04:15:02.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> me dió hambre
+[02Jun2025 04:15:03.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> cual oe
+[02Jun2025 04:15:09.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> y como no había gampiton
+[02Jun2025 04:15:11.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> si esta de aca sigue aqui
+[02Jun2025 04:15:21.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> tienes razón.
