@@ -565,3 +565,4 @@
 [02Jun2025 18:41:32.602] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/283, l='ServerLevel[world]', x=-5722.26, y=82.00, z=-2110.26] died, message: 'Armorer was slain by Zombie'
 [02Jun2025 19:18:05.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -5.707753535147276,7.912504756647195,-2.321317304285003
 [02Jun2025 19:19:10.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/290, l='ServerLevel[world]', x=-5721.30, y=80.70, z=-2061.70] died, message: 'Unemployed was slain by Zombie Villager'
+[02Jun2025 19:27:56.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! 9.046857064420692,0.0,4.424691356793119

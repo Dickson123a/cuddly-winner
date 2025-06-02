@@ -11389,3 +11389,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jun2025 19:19:10.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/290, l='ServerLevel[world]', x=-5721.30, y=80.70, z=-2061.70] died, message: 'Unemployed was slain by Zombie Villager'
 [02Jun2025 19:20:01.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jun2025 19:20:01.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 19:25:01.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 19:25:01.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 19:26:25.445] [Worker-Main-12/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from repurposed_structures-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[02Jun2025 19:26:26.023] [Worker-Main-12/DEBUG] [mixin/]: Mixing BeardifierMixin from valhelsia_structures.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[02Jun2025 19:26:26.086] [Worker-Main-12/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[02Jun2025 19:27:56.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! 9.046857064420692,0.0,4.424691356793119
+[02Jun2025 19:30:01.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 19:30:01.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
