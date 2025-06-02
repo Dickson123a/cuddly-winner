@@ -11371,3 +11371,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jun2025 18:41:13.002] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/399, l='ServerLevel[world]', x=-5721.30, y=80.12, z=-2061.30] died, message: 'Unemployed was slain by Zombie'
 [02Jun2025 18:41:21.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! 4.444483598998886,-9.721881385753903,-0.11082814367455285
 [02Jun2025 18:41:32.602] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/283, l='ServerLevel[world]', x=-5722.26, y=82.00, z=-2110.26] died, message: 'Armorer was slain by Zombie'
+[02Jun2025 18:45:01.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 18:45:01.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 18:50:01.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 18:50:01.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
