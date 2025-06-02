@@ -63,9 +63,11 @@
     "criteria": {
       "cooked_porkchop": "2025-06-01 20:21:13 +0000",
       "cooked_mutton": "2025-06-01 19:37:05 +0000",
+      "cooked_beef": "2025-06-02 23:16:59 +0000",
       "baked_potato": "2025-06-02 04:49:36 +0000",
       "bread": "2025-06-02 02:39:39 +0000",
-      "glow_berries": "2025-06-01 20:36:41 +0000"
+      "glow_berries": "2025-06-01 20:36:41 +0000",
+      "carrot": "2025-06-02 23:14:59 +0000"
     },
     "done": false
   },
@@ -81,6 +83,7 @@
       "minecraft:spider": "2025-06-01 20:05:44 +0000",
       "minecraft:creeper": "2025-06-01 19:50:53 +0000",
       "minecraft:witch": "2025-06-01 19:50:46 +0000",
+      "minecraft:enderman": "2025-06-02 23:17:09 +0000",
       "minecraft:zombie": "2025-06-01 19:50:16 +0000",
       "minecraft:zombie_villager": "2025-06-02 02:03:16 +0000"
     },
@@ -253,6 +256,12 @@
       "traded": "2025-06-02 04:10:25 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_taiga": "2025-06-02 23:23:30 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
