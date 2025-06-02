@@ -11434,3 +11434,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jun2025 20:20:01.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jun2025 20:25:01.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jun2025 20:25:01.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 20:26:26.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 20:26:49.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 20:27:03.649] [Server thread/DEBUG] [mixin/]: Mixing RotationPropagatorAccessor from create_connected.mixins.json into com.simibubi.create.content.kinetics.RotationPropagator
+[02Jun2025 20:27:03.650] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:RotationPropagatorAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[02Jun2025 20:27:03.650] [Server thread/DEBUG] [mixin/]: Renaming @Invoker method callFindConnectedNeighbour(Lcom/simibubi/create/content/kinetics/base/KineticBlockEntity;Lnet/minecraft/core/BlockPos;)Lcom/simibubi/create/content/kinetics/base/KineticBlockEntity; to callFindConnectedNeighbour_$md$1a9b3f$0 in create_connected.mixins.json:RotationPropagatorAccessor
+[02Jun2025 20:27:03.650] [Server thread/DEBUG] [mixin/]: Mixing RotationPropagatorMixin from create_connected.mixins.json into com.simibubi.create.content.kinetics.RotationPropagator
+[02Jun2025 20:27:03.650] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:RotationPropagatorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[02Jun2025 20:27:03.650] [Server thread/DEBUG] [mixin/]: Mixing chaincogwheel.RotationPropagatorMixin from create_connected.mixins.json into com.simibubi.create.content.kinetics.RotationPropagator
+[02Jun2025 20:27:03.651] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:chaincogwheel.RotationPropagatorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[02Jun2025 20:30:01.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 20:30:01.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 20:35:01.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 20:35:01.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
