@@ -560,3 +560,7 @@
 [02Jun2025 16:23:41.432] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ChupetinXD
 [02Jun2025 16:23:41.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6104ms or 122 ticks behind
 [02Jun2025 16:23:50.478] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
+[02Jun2025 16:49:06.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 16:50:05.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 16:50:09.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 16:52:42.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]

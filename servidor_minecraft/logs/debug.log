@@ -11405,3 +11405,22 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jun2025 16:33:31.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jun2025 16:38:31.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jun2025 16:38:31.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 16:43:31.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 16:43:31.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 16:48:31.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 16:48:31.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 16:48:41.955] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:ruins/tower_ruin_3
+[02Jun2025 16:48:41.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/pillager_with_crossbow_1
+[02Jun2025 16:48:41.959] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/pillager_with_sword_1
+[02Jun2025 16:48:46.846] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[02Jun2025 16:48:52.346] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_bee
+[02Jun2025 16:48:52.347] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_plate_2
+[02Jun2025 16:49:06.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 16:49:23.251] [Worker-Main-2/DEBUG] [ModernFix/]: Structure valhelsia_structures:player_house/feature_chicken is being run through DFU (hash 3e051748e4dc3e51d2cdd604007f8917181b87712debe0c0cd013a2ff4a3855a), this will cause launch time delays
+[02Jun2025 16:49:23.311] [Worker-Main-2/DEBUG] [ModernFix/]: Structure valhelsia_structures:mobs/chickens/chicken_1 is being run through DFU (hash ecba74064b9837f491448ec0656ff3f0b46c70cb9e2c4ecadd1c3f161cc7d2cc), this will cause launch time delays
+[02Jun2025 16:49:23.435] [Worker-Main-2/DEBUG] [ModernFix/]: Structure valhelsia_structures:mobs/chickens/chicken_2 is being run through DFU (hash c44b70b6ee87bf2cbe9ee306e18e07d48de4edc1a62d39d3133bd61688a7ee11), this will cause launch time delays
+[02Jun2025 16:49:23.457] [Worker-Main-2/DEBUG] [ModernFix/]: Structure valhelsia_structures:mobs/chickens/chicken_3 is being run through DFU (hash 35ee76d8ecfb54a1bbf5f08958597f6d1907667de33887aa2cf62e6c72f29146), this will cause launch time delays
+[02Jun2025 16:49:23.482] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_farm_1
+[02Jun2025 16:50:05.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[02Jun2025 16:50:09.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[02Jun2025 16:52:42.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
