@@ -217,6 +217,12 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_cherry": "2025-06-02 02:33:33 +0000"
+    },
+    "done": false
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-06-02 02:33:59 +0000"
@@ -226,12 +232,6 @@
   "lootr:social": {
     "criteria": {
       "opened_chest": "2025-06-02 02:33:59 +0000"
-    },
-    "done": false
-  },
-  "repurposed_structures:villages": {
-    "criteria": {
-      "in_village_cherry": "2025-06-02 02:33:33 +0000"
     },
     "done": false
   },
