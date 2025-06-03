@@ -579,3 +579,10 @@
 [02Jun2025 23:27:16.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> falto la o
 [02Jun2025 23:27:28.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> son del valhelsia structures y del terralith
 [02Jun2025 23:28:26.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ya vengo
+[02Jun2025 23:36:35.337] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-7225, y=20, z=-5175}
+[02Jun2025 23:49:29.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> oe ya hice el generador de piedra con sistema de autoguardado
+[02Jun2025 23:49:32.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> te lo enseño cuando venga
+[02Jun2025 23:49:33.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> chao
+[02Jun2025 23:49:48.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[02Jun2025 23:49:48.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[02Jun2025 23:49:48.985] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ChupetinXD

@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-06-02 23:36:37 +0000",
       "minecraft:taiga": "2025-06-01 20:05:11 +0000",
       "minecraft:birch_forest": "2025-06-01 20:05:05 +0000",
       "minecraft:windswept_hills": "2025-06-02 02:43:25 +0000",
@@ -46,6 +47,7 @@
       "minecraft:cold_ocean": "2025-06-01 20:45:54 +0000",
       "minecraft:forest": "2025-06-01 19:59:18 +0000",
       "minecraft:lush_caves": "2025-06-01 20:23:53 +0000",
+      "minecraft:windswept_forest": "2025-06-02 23:38:59 +0000",
       "minecraft:windswept_savanna": "2025-06-01 19:56:22 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-01 20:05:56 +0000",
       "minecraft:deep_dark": "2025-06-01 20:36:55 +0000",

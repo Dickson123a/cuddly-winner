@@ -11716,3 +11716,41 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jun2025 23:30:40.484] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ChupetinXD'/236, l='ServerLevel[world]', x=-5796.23, y=93.00, z=-2111.28], dimensionLocationPath overworld
 [02Jun2025 23:30:40.484] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ChupetinXD'/236, l='ServerLevel[world]', x=-5796.23, y=93.00, z=-2111.28] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@214]
 [02Jun2025 23:30:40.533] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ChupetinXD'/236, l='ServerLevel[world]', x=-5796.16, y=93.00, z=-2111.35]
+[02Jun2025 23:32:28.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 23:32:28.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 23:36:28.957] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jorgepwe'/532, l='ServerLevel[world]', x=-6833.21, y=61.00, z=-5545.94]
+[02Jun2025 23:36:35.337] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-7225, y=20, z=-5175}
+[02Jun2025 23:36:39.465] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jorgepwe'/532, l='ServerLevel[world]', x=-6868.92, y=62.61, z=-5555.25], dimensionLocationPath overworld
+[02Jun2025 23:36:39.465] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jorgepwe'/532, l='ServerLevel[world]', x=-6868.92, y=62.61, z=-5555.25] in list []
+[02Jun2025 23:36:53.466] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:furnished/witch_hut/witch_hut_1
+[02Jun2025 23:37:16.216] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/large
+[02Jun2025 23:37:18.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:furnished/player_house/house_1
+[02Jun2025 23:37:18.231] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:ruins/tower_ruin_2
+[02Jun2025 23:37:26.271] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:furnished/desert_house/desert_house
+[02Jun2025 23:37:28.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 23:37:28.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 23:38:23.655] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[02Jun2025 23:38:51.372] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:ruins/castle_ruin
+[02Jun2025 23:38:51.383] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/pillager_with_axe_1
+[02Jun2025 23:39:54.778] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[02Jun2025 23:40:15.499] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/19316, l='ServerLevel[world]', x=-7344.67, y=104.26, z=-5555.46], dimensionLocationPath overworld
+[02Jun2025 23:40:15.499] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/19316, l='ServerLevel[world]', x=-7344.67, y=104.26, z=-5555.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@214]
+[02Jun2025 23:40:15.999] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/19316, l='ServerLevel[world]', x=-7344.41, y=104.02, z=-5555.45, removed=DISCARDED]
+[02Jun2025 23:42:28.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 23:42:28.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 23:47:28.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 23:47:28.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 23:49:29.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> oe ya hice el generador de piedra con sistema de autoguardado
+[02Jun2025 23:49:32.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> te lo enseño cuando venga
+[02Jun2025 23:49:33.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> chao
+[02Jun2025 23:49:48.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[02Jun2025 23:49:48.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[02Jun2025 23:49:48.983] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of ChupetinXD
+[02Jun2025 23:49:48.985] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ChupetinXD
+[02Jun2025 23:52:28.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 23:52:28.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 23:57:28.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 23:57:28.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 23:59:56.360] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/24981, l='ServerLevel[world]', x=-7380.07, y=100.09, z=-5543.24], dimensionLocationPath overworld
+[02Jun2025 23:59:56.360] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/24981, l='ServerLevel[world]', x=-7380.07, y=100.09, z=-5543.24] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@214]
+[02Jun2025 23:59:56.461] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/24981, l='ServerLevel[world]', x=-7380.71, y=100.32, z=-5543.40, removed=DISCARDED]
