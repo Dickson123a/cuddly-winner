@@ -590,3 +590,56 @@
 [03Jun2025 03:17:51.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
 [03Jun2025 03:17:57.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported lovo123456789 to ChupetinXD]
 [03Jun2025 03:18:38.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lovo123456789 has reached the goal [Here They Come]
+[03Jun2025 03:19:30.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lovo123456789 has made the advancement [Sweet Dreams]
+[03Jun2025 03:19:40.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lovo123456789 lost connection: Disconnected
+[03Jun2025 03:19:40.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lovo123456789 left the game
+[03Jun2025 03:19:40.122] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lovo123456789
+[03Jun2025 03:20:13.067] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21f41d34[id=<null>,name=lovo123456789,properties={},legacy=false] (/127.179.124.185:42939) lost connection: Disconnected
+[03Jun2025 03:20:24.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lovo123456789[/127.179.124.185:51017] logged in with entity id 4121 at (-5803.5, 92.0, -2108.5)
+[03Jun2025 03:20:24.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lovo123456789 joined the game
+[03Jun2025 03:20:24.625] [Server thread/INFO] [Jade/]: Syncing config to lovo123456789 (17cd96d6-e5e0-3540-82dd-af6045b82b42)
+[03Jun2025 03:20:24.772] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lovo123456789 (18)
+[03Jun2025 03:20:24.773] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lovo123456789
+[03Jun2025 03:20:34.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> ahora si
+[03Jun2025 03:20:38.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> se me bugeo el teclado
+[03Jun2025 03:20:49.613] [luckperms-worker-15/INFO] [net.minecraft.server.MinecraftServer/]: [LP] LOG > (ChupetinXD) [G] (default)
+[03Jun2025 03:20:49.614] [luckperms-worker-15/INFO] [net.minecraft.server.MinecraftServer/]: [LP] LOG > webeditor add group.default true
+[03Jun2025 03:21:05.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ven
+[03Jun2025 03:21:20.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> y esta vaina
+[03Jun2025 03:21:23.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> esta bacan
+[03Jun2025 03:21:29.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> primera máquina
+[03Jun2025 03:21:30.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> q hice
+[03Jun2025 03:21:32.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> mira
+[03Jun2025 03:21:39.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> aburro
+[03Jun2025 03:21:46.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ven y mira
+[03Jun2025 03:21:47.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> esta rotisimo
+[03Jun2025 03:21:48.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> y de q es
+[03Jun2025 03:22:12.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> revisa el cofre de piedra
+[03Jun2025 03:22:29.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> solo piedra da?
+[03Jun2025 03:22:32.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lovo123456789 has made the advancement [Stone Age]
+[03Jun2025 03:22:38.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> seh pero de la piedra puedo hacer más cosas
+[03Jun2025 03:22:41.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> es lo básico
+[03Jun2025 03:22:52.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> asu
+[03Jun2025 03:22:56.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> q velocidad
+[03Jun2025 03:23:07.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> y la de exp
+[03Jun2025 03:23:17.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> con la de piedra se puede
+[03Jun2025 03:23:22.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> pero necesito muchos trituradores
+[03Jun2025 03:23:33.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> dificiles de hacer?
+[03Jun2025 03:23:34.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lovo123456789 has made the advancement [Isn't It Iron Pick]
+[03Jun2025 03:23:37.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> seh
+[03Jun2025 03:23:44.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> aunq puedo reciclar
+[03Jun2025 03:24:11.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> asu 107 paginas de crafteos
+[03Jun2025 03:24:25.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> y ese castillo
+[03Jun2025 03:24:30.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> es una estructura
+[03Jun2025 03:25:10.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lovo123456789 has made the advancement ['X' Marks the Spot]
+[03Jun2025 03:25:18.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> ahora soy imbecible
+[03Jun2025 03:25:25.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> chapa eso
+[03Jun2025 03:25:33.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lovo123456789 has made the advancement [Suit Up]
+[03Jun2025 03:27:23.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[03Jun2025 03:28:31.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[03Jun2025 03:28:47.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> listo tengo mi caballo
+[03Jun2025 03:29:06.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> tienes montura
+[03Jun2025 03:29:13.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> tenía pero la perdí
+[03Jun2025 03:29:25.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[03Jun2025 03:29:27.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[03Jun2025 03:29:38.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> pasate madera
