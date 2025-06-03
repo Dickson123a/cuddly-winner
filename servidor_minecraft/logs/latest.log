@@ -557,3 +557,5 @@
 [03Jun2025 01:31:21.280] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ChupetinXD
 [03Jun2025 01:31:21.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4636ms or 92 ticks behind
 [03Jun2025 01:38:25.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Busy Hands]
+[03Jun2025 01:52:17.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[03Jun2025 01:56:23.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
