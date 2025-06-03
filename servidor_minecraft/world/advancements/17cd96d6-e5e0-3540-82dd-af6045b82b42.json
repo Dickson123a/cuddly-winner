@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-06-03 03:47:02 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-06-03 03:25:10 +0000"
@@ -120,7 +126,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-06-03 03:35:23 +0000",
-      "minecraft:soul_sand_valley": "2025-06-03 03:34:51 +0000"
+      "minecraft:nether_wastes": "2025-06-03 03:52:24 +0000",
+      "minecraft:soul_sand_valley": "2025-06-03 03:34:51 +0000",
+      "minecraft:basalt_deltas": "2025-06-03 03:49:28 +0000"
     },
     "done": false
   },
@@ -136,6 +144,7 @@
       "cooked_beef": "2025-06-03 03:42:51 +0000",
       "apple": "2025-06-03 03:34:04 +0000",
       "bread": "2025-06-03 03:37:16 +0000",
+      "golden_apple": "2025-06-03 03:53:29 +0000",
       "rotten_flesh": "2025-06-03 03:35:43 +0000",
       "rabbit_stew": "2025-06-03 03:38:30 +0000"
     },
@@ -180,6 +189,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-03 03:45:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-06-03 03:47:07 +0000"
     },
     "done": true
   },

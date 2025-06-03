@@ -64,11 +64,14 @@
     "criteria": {
       "minecraft:pillager": "2025-06-02 01:18:32 +0000",
       "minecraft:skeleton": "2025-06-02 01:24:56 +0000",
+      "minecraft:ghast": "2025-06-03 03:55:12 +0000",
       "minecraft:vindicator": "2025-06-02 04:34:50 +0000",
+      "minecraft:magma_cube": "2025-06-03 03:47:13 +0000",
       "minecraft:spider": "2025-06-02 17:34:20 +0000",
       "minecraft:piglin_brute": "2025-06-03 03:42:09 +0000",
       "minecraft:creeper": "2025-06-02 02:41:23 +0000",
       "minecraft:evoker": "2025-06-02 04:35:38 +0000",
+      "minecraft:zombified_piglin": "2025-06-03 03:48:53 +0000",
       "minecraft:witch": "2025-06-02 04:35:23 +0000",
       "quark:wraith": "2025-06-03 03:36:13 +0000",
       "minecraft:piglin": "2025-06-03 03:42:15 +0000",
@@ -334,9 +337,12 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-06-02 21:04:15 +0000",
-      "minecraft:soul_sand_valley": "2025-06-02 21:04:09 +0000"
+      "minecraft:soul_sand_valley": "2025-06-02 21:04:09 +0000",
+      "minecraft:nether_wastes": "2025-06-03 03:52:16 +0000",
+      "minecraft:basalt_deltas": "2025-06-03 03:46:29 +0000",
+      "minecraft:warped_forest": "2025-06-03 03:54:44 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:belt": {
     "criteria": {
@@ -356,9 +362,39 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-06-03 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-03 03:50:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-06-03 03:49:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-06-03 03:38:12 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-06-03 03:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-03 03:47:01 +0000"
     },
     "done": true
   },
@@ -386,9 +422,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-06-03 03:49:03 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-06-03 03:31:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-06-03 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-06-03 03:48:41 +0000"
     },
     "done": true
   },
