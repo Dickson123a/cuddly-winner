@@ -925,3 +925,18 @@
 [03Jun2025 05:31:08.482] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/64705, l='ServerLevel[world]', x=-624.93, y=55.00, z=899.93] as it would cause deadlock
 [03Jun2025 05:31:09.933] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/64725, l='ServerLevel[world]', x=-343.00, y=31.00, z=899.00] as it would cause deadlock
 [03Jun2025 05:31:39.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> oe quiers un libro con perdicion de los artropodos 6?
+[03Jun2025 05:32:33.050] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/65213, l='ServerLevel[world]', x=-471.00, y=31.00, z=945.00] as it would cause deadlock
+[03Jun2025 05:32:33.679] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/65225, l='ServerLevel[world]', x=-161.00, y=31.00, z=950.00] as it would cause deadlock
+[03Jun2025 05:32:33.680] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/65227, l='ServerLevel[world]', x=-161.00, y=31.00, z=951.00] as it would cause deadlock
+[03Jun2025 05:33:34.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> no gracias
+[03Jun2025 05:36:48.041] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/67291, l='ServerLevel[world]', x=212.00, y=31.00, z=481.00] as it would cause deadlock
+[03Jun2025 05:36:49.490] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/67332, l='ServerLevel[world]', x=239.00, y=31.00, z=500.00] as it would cause deadlock
+[03Jun2025 05:36:49.588] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/67338, l='ServerLevel[world]', x=230.00, y=31.00, z=357.00] as it would cause deadlock
+[03Jun2025 05:36:53.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[03Jun2025 05:37:47.090] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/68546, l='ServerLevel[world]', x=268.00, y=31.00, z=376.00] as it would cause deadlock
+[03Jun2025 05:39:06.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[03Jun2025 05:39:06.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[03Jun2025 05:39:06.921] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ChupetinXD
+[03Jun2025 05:39:52.017] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgepwe lost connection: Disconnected
+[03Jun2025 05:39:52.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe left the game
+[03Jun2025 05:39:52.017] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jorgepwe
