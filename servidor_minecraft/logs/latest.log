@@ -907,3 +907,21 @@
 [03Jun2025 05:19:42.338] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/56904, l='ServerLevel[world]', x=-786.00, y=31.00, z=606.00] as it would cause deadlock
 [03Jun2025 05:19:43.089] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/56917, l='ServerLevel[world]', x=-369.00, y=31.00, z=618.00] as it would cause deadlock
 [03Jun2025 05:20:11.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[03Jun2025 05:22:12.149] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/59141, l='ServerLevel[world]', x=-893.00, y=31.00, z=532.00] as it would cause deadlock
+[03Jun2025 05:26:05.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> si durmieras
+[03Jun2025 05:26:47.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> duerme p
+[03Jun2025 05:29:45.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[03Jun2025 05:29:45.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[03Jun2025 05:29:45.477] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ChupetinXD
+[03Jun2025 05:30:05.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.115.103.227:50733] logged in with entity id 62999 at (-5785.300000011921, 85.0, -2107.300000011921)
+[03Jun2025 05:30:05.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[03Jun2025 05:30:05.958] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[03Jun2025 05:30:09.395] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ChupetinXD (18)
+[03Jun2025 05:30:09.396] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ChupetinXD
+[03Jun2025 05:30:57.296] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/64558, l='ServerLevel[world]', x=-311.00, y=31.00, z=766.00] as it would cause deadlock
+[03Jun2025 05:30:58.646] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/64568, l='ServerLevel[world]', x=-163.00, y=31.00, z=765.00] as it would cause deadlock
+[03Jun2025 05:30:58.733] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/64574, l='ServerLevel[world]', x=-329.00, y=31.00, z=778.00] as it would cause deadlock
+[03Jun2025 05:31:07.782] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/64685, l='ServerLevel[world]', x=-725.00, y=31.00, z=677.00] as it would cause deadlock
+[03Jun2025 05:31:08.482] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/64705, l='ServerLevel[world]', x=-624.93, y=55.00, z=899.93] as it would cause deadlock
+[03Jun2025 05:31:09.933] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/64725, l='ServerLevel[world]', x=-343.00, y=31.00, z=899.00] as it would cause deadlock
+[03Jun2025 05:31:39.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> oe quiers un libro con perdicion de los artropodos 6?
