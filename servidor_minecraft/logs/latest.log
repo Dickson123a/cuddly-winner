@@ -839,3 +839,71 @@
 [03Jun2025 04:11:24.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> yaya
 [03Jun2025 04:27:24.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [A Seedy Place]
 [03Jun2025 04:28:15.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> duerme
+[03Jun2025 04:32:03.728] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/19669, l='ServerLevel[world]', x=-5947.55, y=80.00, z=-5556.91] died, message: 'Nitwit was slain by Jorgepwe'
+[03Jun2025 04:32:03.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Neighborhood Brawl]
+[03Jun2025 04:32:13.179] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/19684, l='ServerLevel[world]', x=-5951.24, y=80.56, z=-5562.49] died, message: 'Nitwit was slain by Jorgepwe'
+[03Jun2025 04:38:01.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> oe tienes
+[03Jun2025 04:38:12.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> obsidiana?
+[03Jun2025 04:38:21.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> tengo 12
+[03Jun2025 04:38:24.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> te sirve?
+[03Jun2025 04:38:26.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> si
+[03Jun2025 04:38:34.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[03Jun2025 04:38:47.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> como voy XD
+[03Jun2025 04:38:51.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> te tpeo ps
+[03Jun2025 04:39:01.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> tienes waystone?
+[03Jun2025 04:39:06.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> si
+[03Jun2025 04:39:10.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ya
+[03Jun2025 04:39:12.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported Jorgepwe to ChupetinXD]
+[03Jun2025 04:39:17.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Ice Bucket Challenge]
+[03Jun2025 04:39:34.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> gracias
+[03Jun2025 04:39:51.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[03Jun2025 04:42:17.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [We Need to Go Deeper]
+[03Jun2025 04:42:21.774] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/40380, l='ServerLevel[world]', x=-625.00, y=31.00, z=-708.00] as it would cause deadlock
+[03Jun2025 04:42:31.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[03Jun2025 04:42:35.941] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/40840, l='ServerLevel[world]', x=-771.00, y=31.00, z=-962.00] as it would cause deadlock
+[03Jun2025 04:42:35.941] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/40842, l='ServerLevel[world]', x=-769.00, y=31.00, z=-962.00] as it would cause deadlock
+[03Jun2025 04:42:36.008] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/40848, l='ServerLevel[world]', x=-691.00, y=31.00, z=-969.00] as it would cause deadlock
+[03Jun2025 04:42:37.251] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/40891, l='ServerLevel[world]', x=-1029.00, y=31.00, z=-739.00] as it would cause deadlock
+[03Jun2025 04:42:38.044] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/40924, l='ServerLevel[world]', x=-743.00, y=31.00, z=-988.00] as it would cause deadlock
+[03Jun2025 04:42:39.049] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/40946, l='ServerLevel[world]', x=-1045.00, y=31.00, z=-984.00] as it would cause deadlock
+[03Jun2025 04:43:01.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[03Jun2025 04:43:42.202] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/41446, l='ServerLevel[world]', x=-1233.00, y=31.00, z=-978.00] as it would cause deadlock
+[03Jun2025 04:43:45.054] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/41477, l='ServerLevel[world]', x=-1249.00, y=31.00, z=-1006.00] as it would cause deadlock
+[03Jun2025 04:44:31.195] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/41788, l='ServerLevel[world]', x=-1305.00, y=31.00, z=-1060.00] as it would cause deadlock
+[03Jun2025 04:45:27.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Those Were the Days]
+[03Jun2025 04:45:45.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3095ms or 61 ticks behind
+[03Jun2025 04:46:45.711] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/43524, l='ServerLevel[world]', x=-1371.00, y=31.00, z=-861.00] as it would cause deadlock
+[03Jun2025 04:48:17.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [War Pigs]
+[03Jun2025 04:48:24.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Hidden in the Depths]
+[03Jun2025 04:48:26.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Close Quarters]
+[03Jun2025 04:49:11.756] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/44205, l='ServerLevel[world]', x=-1427.00, y=31.00, z=-793.00] as it would cause deadlock
+[03Jun2025 04:49:25.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Where Is The Stone Pen?]
+[03Jun2025 04:50:11.294] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/44423, l='ServerLevel[world]', x=-1469.00, y=31.00, z=-772.00] as it would cause deadlock
+[03Jun2025 04:50:28.355] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/44537, l='ServerLevel[world]', x=-1503.10, y=31.00, z=-806.00] as it would cause deadlock
+[03Jun2025 04:50:49.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Wheels of Destruction]
+[03Jun2025 04:55:46.298] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/46449, l='ServerLevel[world]', x=-1507.00, y=31.00, z=-10.00] as it would cause deadlock
+[03Jun2025 04:55:48.903] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/46502, l='ServerLevel[world]', x=-1147.00, y=31.00, z=8.00] as it would cause deadlock
+[03Jun2025 04:55:48.903] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/46504, l='ServerLevel[world]', x=-1144.00, y=31.00, z=8.00] as it would cause deadlock
+[03Jun2025 04:55:53.494] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/46551, l='ServerLevel[world]', x=-1624.00, y=31.00, z=-59.00] as it would cause deadlock
+[03Jun2025 04:57:19.352] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/47319, l='ServerLevel[world]', x=-1410.00, y=31.00, z=104.00] as it would cause deadlock
+[03Jun2025 05:01:27.337] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/49142, l='ServerLevel[world]', x=-1176.00, y=31.00, z=188.00] as it would cause deadlock
+[03Jun2025 05:02:01.701] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/49433, l='ServerLevel[world]', x=-645.00, y=31.00, z=258.00] as it would cause deadlock
+[03Jun2025 05:02:03.993] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/49488, l='ServerLevel[world]', x=-1110.00, y=31.00, z=279.00] as it would cause deadlock
+[03Jun2025 05:02:15.897] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/49597, l='ServerLevel[world]', x=-1300.00, y=31.00, z=308.00] as it would cause deadlock
+[03Jun2025 05:02:17.865] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/49619, l='ServerLevel[world]', x=-917.00, y=31.00, z=333.00] as it would cause deadlock
+[03Jun2025 05:02:20.984] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/49656, l='ServerLevel[world]', x=-963.00, y=31.00, z=343.00] as it would cause deadlock
+[03Jun2025 05:03:18.362] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50403, l='ServerLevel[world]', x=-1114.00, y=31.00, z=430.00] as it would cause deadlock
+[03Jun2025 05:03:44.198] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50823, l='ServerLevel[world]', x=-355.00, y=31.00, z=320.90] as it would cause deadlock
+[03Jun2025 05:04:18.388] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/51286, l='ServerLevel[world]', x=-251.00, y=31.00, z=277.00] as it would cause deadlock
+[03Jun2025 05:05:38.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Not even afraid of death]
+[03Jun2025 05:05:38.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Back to childhood]
+[03Jun2025 05:09:15.404] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/52978, l='ServerLevel[world]', x=-350.00, y=31.00, z=426.00] as it would cause deadlock
+[03Jun2025 05:11:50.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Who is Cutting Onions?]
+[03Jun2025 05:16:59.554] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/55498, l='ServerLevel[world]', x=-405.00, y=31.00, z=490.00] as it would cause deadlock
+[03Jun2025 05:16:59.855] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/55503, l='ServerLevel[world]', x=-552.00, y=82.00, z=487.00] as it would cause deadlock
+[03Jun2025 05:17:03.143] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/55530, l='ServerLevel[world]', x=-431.00, y=59.00, z=505.00] as it would cause deadlock
+[03Jun2025 05:19:35.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has reached the goal [Greed may lead to loss]
+[03Jun2025 05:19:37.155] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/56836, l='ServerLevel[world]', x=-418.00, y=31.00, z=517.00] as it would cause deadlock
+[03Jun2025 05:19:42.338] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/56904, l='ServerLevel[world]', x=-786.00, y=31.00, z=606.00] as it would cause deadlock
+[03Jun2025 05:19:43.089] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/56917, l='ServerLevel[world]', x=-369.00, y=31.00, z=618.00] as it would cause deadlock
+[03Jun2025 05:20:11.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
