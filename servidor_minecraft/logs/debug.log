@@ -11754,3 +11754,32 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jun2025 23:59:56.360] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/24981, l='ServerLevel[world]', x=-7380.07, y=100.09, z=-5543.24], dimensionLocationPath overworld
 [02Jun2025 23:59:56.360] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/24981, l='ServerLevel[world]', x=-7380.07, y=100.09, z=-5543.24] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@214]
 [02Jun2025 23:59:56.461] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/24981, l='ServerLevel[world]', x=-7380.71, y=100.32, z=-5543.40, removed=DISCARDED]
+[03Jun2025 00:02:28.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 00:02:28.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 00:06:07.150] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/25814, l='ServerLevel[world]', x=-7405.46, y=85.47, z=-5517.51], dimensionLocationPath overworld
+[03Jun2025 00:06:07.150] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/25814, l='ServerLevel[world]', x=-7405.46, y=85.47, z=-5517.51] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@214]
+[03Jun2025 00:06:07.399] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/25819, l='ServerLevel[world]', x=-7405.47, y=85.19, z=-5516.62], dimensionLocationPath overworld
+[03Jun2025 00:06:07.399] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/25819, l='ServerLevel[world]', x=-7405.47, y=85.19, z=-5516.62] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@214, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@64d6]
+[03Jun2025 00:06:07.680] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/25814, l='ServerLevel[world]', x=-7405.53, y=85.22, z=-5518.42, removed=DISCARDED]
+[03Jun2025 00:06:07.899] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/25819, l='ServerLevel[world]', x=-7405.13, y=85.00, z=-5517.23, removed=DISCARDED]
+[03Jun2025 00:06:08.759] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jorgepwe'/532, l='ServerLevel[world]', x=-7405.53, y=85.00, z=-5515.79]
+[03Jun2025 00:07:28.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 00:07:28.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 00:08:44.502] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/small_1
+[03Jun2025 00:08:44.509] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/small_1_bottom
+[03Jun2025 00:08:44.511] [Worker-Main-2/DEBUG] [ModernFix/]: Structure valhelsia_structures:spawner_dungeon/passage/passage_2 is being run through DFU (hash dcbcda629b26173af8b0cb248e219ecf53a0c40bbfee79ad7970592dc30ee6cd), this will cause launch time delays
+[03Jun2025 00:08:44.511] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
+[03Jun2025 00:08:45.385] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/stairs/stairs_2
+[03Jun2025 00:08:45.393] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/spawner_room/spider_spawner_room
+[03Jun2025 00:08:45.398] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/side_room/side_room_4
+[03Jun2025 00:09:03.371] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[03Jun2025 00:09:03.380] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[03Jun2025 00:09:03.382] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[03Jun2025 00:09:03.389] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t1
+[03Jun2025 00:09:03.390] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[03Jun2025 00:09:03.546] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[03Jun2025 00:09:03.578] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[03Jun2025 00:09:03.644] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend2
+[03Jun2025 00:09:03.645] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[03Jun2025 00:09:03.648] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/intersection_big
+[03Jun2025 00:09:03.650] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
