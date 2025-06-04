@@ -11584,3 +11584,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Jun2025 03:01:59.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jun2025 03:06:59.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jun2025 03:06:59.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 03:09:03.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Spectator Mode]
+[04Jun2025 03:09:17.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[04Jun2025 03:11:59.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 03:11:59.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 03:15:12.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[04Jun2025 03:15:24.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[04Jun2025 03:15:25.115] [Server thread/DEBUG] [mixin/]: Mixing contraption.ContainerLevelAccessMixin from create_connected.mixins.json into net.minecraft.world.inventory.ContainerLevelAccess
+[04Jun2025 03:15:25.115] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:contraption.ContainerLevelAccessMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[04Jun2025 03:15:25.117] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/inventory/ContainerLevelAccess$Anonymous$b98edbca56c948cebdaaf1ed1e70d118 (originally com/hlysine/create_connected/mixin/contraption/ContainerLevelAccessMixin$1)
+[04Jun2025 03:16:59.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 03:16:59.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
