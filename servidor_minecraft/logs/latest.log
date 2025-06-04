@@ -635,3 +635,11 @@
 [04Jun2025 03:41:52.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lovo123456789 moved wrongly!
 [04Jun2025 03:55:11.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lovo123456789 was processed by Crushing Wheels
 [04Jun2025 03:55:11.068] [Server thread/INFO] [tombstone/]: The player lovo123456789 has successfully been saved
+[04Jun2025 04:00:16.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[04Jun2025 04:00:25.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[04Jun2025 04:02:13.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lovo123456789 has made the advancement [Ambush]
+[04Jun2025 04:02:30.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lovo123456789 has made the advancement [Voluntary Exile]
+[04Jun2025 04:03:51.061] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/331, l='ServerLevel[world]', x=-5737.50, y=86.35, z=-2052.50] died, message: 'Fisherman was slain by Vindicator'
+[04Jun2025 04:06:47.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lovo123456789 has made the advancement [Disme A Dozen]
+[04Jun2025 04:07:26.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[04Jun2025 04:07:47.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
