@@ -12834,3 +12834,51 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Jun2025 04:06:59.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jun2025 04:07:26.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
 [04Jun2025 04:07:47.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[04Jun2025 04:09:01.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lovo123456789 has made the advancement [Hot Stuff]
+[04Jun2025 04:09:57.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of etched:village/plains/houses/plains_bard_house_1
+[04Jun2025 04:10:33.723] [Worker-Main-69/DEBUG] [mixin/]: Mixing ChunkGeneratorMixin from quark.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[04Jun2025 04:10:33.775] [Worker-Main-107/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[04Jun2025 04:10:41.877] [Worker-Main-107/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:furnished/forge/forge_1
+[04Jun2025 04:11:06.047] [Worker-Main-107/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[04Jun2025 04:11:09.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[04Jun2025 04:11:29.408] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:furnished/witch_hut/witch_hut_2
+[04Jun2025 04:11:36.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[04Jun2025 04:11:38.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[04Jun2025 04:11:43.413] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/large
+[04Jun2025 04:11:43.425] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/large_bottom
+[04Jun2025 04:11:43.432] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/entrance/entrance_1
+[04Jun2025 04:11:43.436] [Worker-Main-71/DEBUG] [ModernFix/]: Structure valhelsia_structures:spawner_dungeon/main_room/main_room_2 is being run through DFU (hash c1c1c97bae203cd8194bfee79224ab7e67b6f7d3a3089de8c07ad47f1cfe3fd5), this will cause launch time delays
+[04Jun2025 04:11:43.436] [Worker-Main-71/INFO] [ModernFix/]: Instantiating Mojang DFU
+[04Jun2025 04:11:44.260] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/passage/passage_4
+[04Jun2025 04:11:44.261] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/stairs/stairs_2
+[04Jun2025 04:11:44.267] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/spawner_room/skeleton_spawner_room
+[04Jun2025 04:11:44.273] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/side_room/side_room_2
+[04Jun2025 04:11:44.278] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/side_room/side_room_1
+[04Jun2025 04:11:44.280] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/side_room/side_room_4
+[04Jun2025 04:11:44.284] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/side_room/side_room_3
+[04Jun2025 04:11:54.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[04Jun2025 04:11:59.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 04:11:59.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 04:12:31.527] [Worker-Main-106/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:ruins/tower_ruin_1
+[04Jun2025 04:12:35.012] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:furnished/witch_hut/witch_hut_1
+[04Jun2025 04:13:06.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[04Jun2025 04:13:24.173] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[04Jun2025 04:13:24.188] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[04Jun2025 04:13:24.190] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t1
+[04Jun2025 04:13:24.192] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[04Jun2025 04:13:24.198] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[04Jun2025 04:13:24.206] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[04Jun2025 04:13:24.214] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[04Jun2025 04:13:24.302] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[04Jun2025 04:13:24.303] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend2
+[04Jun2025 04:13:24.307] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[04Jun2025 04:13:24.312] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/intersection_big
+[04Jun2025 04:13:24.316] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[04Jun2025 04:13:32.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[04Jun2025 04:13:41.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported lovo123456789 to ChupetinXD]
+[04Jun2025 04:16:59.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 04:16:59.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 04:17:02.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lovo123456789 lost connection: Disconnected
+[04Jun2025 04:17:02.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lovo123456789 left the game
+[04Jun2025 04:17:02.220] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of lovo123456789
+[04Jun2025 04:17:02.220] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lovo123456789

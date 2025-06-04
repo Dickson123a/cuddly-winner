@@ -99,10 +99,12 @@
     "criteria": {
       "cooked_porkchop": "2025-06-03 03:43:13 +0000",
       "cooked_beef": "2025-06-03 03:42:51 +0000",
+      "beef": "2025-06-04 04:07:17 +0000",
       "apple": "2025-06-03 03:34:04 +0000",
       "bread": "2025-06-03 03:37:16 +0000",
       "golden_apple": "2025-06-03 03:53:29 +0000",
       "rotten_flesh": "2025-06-03 03:35:43 +0000",
+      "cooked_chicken": "2025-06-04 04:12:23 +0000",
       "rabbit_stew": "2025-06-03 03:38:30 +0000"
     },
     "done": false
@@ -140,6 +142,7 @@
       "minecraft:skeleton": "2025-06-03 03:35:35 +0000",
       "minecraft:magma_cube": "2025-06-03 03:43:40 +0000",
       "minecraft:piglin_brute": "2025-06-03 03:42:38 +0000",
+      "minecraft:spider": "2025-06-04 04:10:08 +0000",
       "minecraft:piglin": "2025-06-03 03:42:27 +0000",
       "minecraft:enderman": "2025-06-04 03:30:45 +0000",
       "quark:foxhound": "2025-06-03 03:37:25 +0000"
@@ -221,6 +224,12 @@
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin_directly": "2025-06-04 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-04 04:09:01 +0000"
     },
     "done": true
   },
