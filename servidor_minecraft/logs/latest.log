@@ -603,3 +603,27 @@
 [04Jun2025 03:25:49.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lovo123456789 has reached the goal [A Fast Comeback]
 [04Jun2025 03:26:36.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lovo123456789 has made the advancement [Who is Cutting Onions?]
 [04Jun2025 03:27:03.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lovo123456789 has made the advancement [Ice Bucket Challenge]
+[04Jun2025 03:27:33.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[04Jun2025 03:27:47.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[04Jun2025 03:27:50.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[04Jun2025 03:27:53.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[04Jun2025 03:27:57.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported lovo123456789 to ChupetinXD]
+[04Jun2025 03:29:48.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD was kicked for floating too long!
+[04Jun2025 03:29:48.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[04Jun2025 03:29:48.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[04Jun2025 03:29:48.508] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ChupetinXD
+[04Jun2025 03:29:48.546] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jun2025 03:30:02.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.115.103.227:56213] logged in with entity id 25461 at (-5787.988264853346, 86.7531999805212, -2097.7900302206303)
+[04Jun2025 03:30:02.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[04Jun2025 03:30:02.583] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[04Jun2025 03:30:03.072] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ChupetinXD (18)
+[04Jun2025 03:30:03.073] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ChupetinXD
+[04Jun2025 03:31:24.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> zzzzzzzzzzzzzz
+[04Jun2025 03:31:24.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> z
+[04Jun2025 03:31:24.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> z
+[04Jun2025 03:31:25.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lovo123456789> z
+[04Jun2025 03:33:28.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lovo123456789 was processed by Crushing Wheels
+[04Jun2025 03:33:28.568] [Server thread/INFO] [tombstone/]: The player lovo123456789 has successfully been saved
+[04Jun2025 03:34:15.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD was processed by Crushing Wheels
+[04Jun2025 03:34:15.325] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ChupetinXD with unique ID travelersbackpack.standard_04.06.2025-03.34.15.dat
+[04Jun2025 03:34:15.328] [Server thread/INFO] [tombstone/]: The player ChupetinXD has successfully been saved
