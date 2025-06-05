@@ -734,3 +734,8 @@
 [05Jun2025 04:00:33.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
 [05Jun2025 04:00:46.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> duerme oe
 [05Jun2025 04:01:26.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[05Jun2025 04:05:01.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Enchanter]
+[05Jun2025 04:10:35.057] [Worker-Main-92/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Jun2025 04:10:35.058] [Worker-Main-92/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Jun2025 04:10:37.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3037ms or 60 ticks behind
+[05Jun2025 04:11:12.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has completed the challenge [Hot Tourist Destinations]

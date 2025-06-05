@@ -230,7 +230,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2025-06-02 02:12:48 +0000"
+      "cooked_beef": "2025-06-02 02:12:48 +0000",
+      "golden_apple": "2025-06-05 04:01:41 +0000"
     },
     "done": false
   },
@@ -529,6 +530,12 @@
   "create:mechanical_pump_0": {
     "criteria": {
       "0": "2025-06-05 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2025-06-05 04:09:34 +0000"
     },
     "done": true
   },
