@@ -104,6 +104,7 @@
       "minecraft:enderman": "2025-06-02 23:17:09 +0000",
       "minecraft:zombie": "2025-06-01 19:50:16 +0000",
       "quark:foxhound": "2025-06-03 04:43:03 +0000",
+      "minecraft:drowned": "2025-06-05 04:55:46 +0000",
       "minecraft:zombie_villager": "2025-06-02 02:03:16 +0000"
     },
     "done": false
@@ -473,6 +474,48 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-06-05 04:05:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-06-05 04:48:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_dark_marble": {
+    "criteria": {
+      "has_ingredient": "2025-06-05 04:48:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-06-05 04:56:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_strange_scroll": {
+    "criteria": {
+      "has_strange_scroll": "2025-06-05 04:55:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-06-05 04:48:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2025-06-05 04:48:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-06-05 04:49:09 +0000"
     },
     "done": true
   },
