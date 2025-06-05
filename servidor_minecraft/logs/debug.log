@@ -16004,3 +16004,22 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Jun2025 03:40:40.124] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ChupetinXD'/246, l='ServerLevel[world]', x=-5798.69, y=-54.31, z=-2070.01], dimensionLocationPath overworld
 [05Jun2025 03:40:40.125] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ChupetinXD'/246, l='ServerLevel[world]', x=-5798.69, y=-54.31, z=-2070.01] in list []
 [05Jun2025 03:40:40.175] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ChupetinXD'/246, l='ServerLevel[world]', x=-5798.69, y=-53.94, z=-2070.01]
+[05Jun2025 03:42:27.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[05Jun2025 03:42:41.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> duerme
+[05Jun2025 03:42:46.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> esta bien,
+[05Jun2025 03:44:19.520] [Worker-Main-81/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:ruins/castle_ruin
+[05Jun2025 03:44:29.197] [Worker-Main-122/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:furnished/witch_hut/witch_hut_2
+[05Jun2025 03:44:37.598] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/small_1
+[05Jun2025 03:44:40.446] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/small_3
+[05Jun2025 03:44:58.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> oe anda consiguiendo harto cinc y cobre
+[05Jun2025 03:45:36.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 03:45:36.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 03:46:42.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[05Jun2025 03:47:09.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> toma
+[05Jun2025 03:47:16.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> déjalo en mis cofres
+[05Jun2025 03:47:53.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> es un reloj cucu
+[05Jun2025 03:48:03.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> puedo agarrar xp?
+[05Jun2025 03:48:11.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> no está generando la máquina
+[05Jun2025 03:48:37.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ya me di cuenta
+[05Jun2025 03:50:36.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 03:50:36.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
