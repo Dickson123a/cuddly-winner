@@ -533,6 +533,12 @@
     },
     "done": true
   },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-06-05 05:03:17 +0000"
+    },
+    "done": true
+  },
   "create:glass_pipe": {
     "criteria": {
       "0": "2025-06-05 04:09:34 +0000"
@@ -542,6 +548,12 @@
   "create:hose_pulley": {
     "criteria": {
       "0": "2025-06-05 04:51:53 +0000"
+    },
+    "done": true
+  },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2025-06-05 05:06:14 +0000"
     },
     "done": true
   },
