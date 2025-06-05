@@ -662,3 +662,8 @@
 [05Jun2025 02:29:28.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgepwe lost connection: Disconnected
 [05Jun2025 02:29:28.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe left the game
 [05Jun2025 02:29:28.780] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jorgepwe
+[05Jun2025 02:47:19.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[05Jun2025 02:57:29.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Spectator Mode]
+[05Jun2025 02:57:35.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[05Jun2025 02:57:44.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[05Jun2025 02:57:49.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
